@@ -49,5 +49,5 @@ def guess_the_number():
 
         previous_difference = difference
 
-# Пуск гг=ри
+# Пуск гри
 guess_the_number()
